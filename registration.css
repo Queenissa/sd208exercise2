@@ -1,8 +1,6 @@
-/*loading the roboto font from google fonts*/
-/*you can use any font you want*/
+
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
-/*setting the font and the backgroud color. change it to what you want*/
 body {
  
   font-family: "Roboto", sans-serif;   
